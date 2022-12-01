@@ -174,3 +174,5 @@ function modalGallery() {
   }
 }
 modalGallery();
+
+console.log("hello");
